@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625347017524",
+    "firebase_url": "https://new-e-collab.firebaseio.com",
+    "project_id": "new-e-collab",
+    "storage_bucket": "new-e-collab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625347017524:android:af638097d59aaf344a8361",
+        "android_client_info": {
+          "package_name": "com.example.e_collabclasroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625347017524-66fqurmrkg1vanlalt8o5rro86jil1qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_collabclasroom",
+            "certificate_hash": "4319a98ff47974e4a315b741ee8905e65dcd5ee5"
+          }
+        },
+        {
+          "client_id": "625347017524-vjk2vsimsci3gus1tpc6as178fgkeq7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TeYSWgMhqp9oxtnO49HX3i845mGaW0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625347017524-vjk2vsimsci3gus1tpc6as178fgkeq7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
